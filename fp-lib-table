@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Package_QFN_Silergy")(type "KiCad")(uri "${KIPRJMOD}/lib/Package_QFN_Silergy.pretty")(options "")(descr ""))
+  (lib (name "Signal_Pad")(type "KiCad")(uri "${KIPRJMOD}/lib/Signal_Pad.pretty")(options "")(descr ""))
+)

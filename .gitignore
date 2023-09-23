@@ -1,0 +1,7 @@
+NanoPi-R4S-RTL8125-retrofit-backups/
+fp-info-cache
+*.xml
+*.log
+*.step
+*.x3d
+~*
